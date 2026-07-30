@@ -8,3 +8,4 @@
 
 <a href="http://site.ageqin.cn" target="_blank">site.ageqin</a>
 (es:*.cpl|*.msc)
+<a href="es:*.cpl|*.msc" target="_blank">site.ageqin</a>
