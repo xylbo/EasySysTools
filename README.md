@@ -10,4 +10,4 @@
 (es:*.cpl|*.msc)
 
 ## es test
-<a href="es:*.cpl|*.msc" target="_blank">es:*.cpl|*.msc</a>
+<a href="es:*.cpl|*.msc" target="_blank">es:cpl..msc</a>
